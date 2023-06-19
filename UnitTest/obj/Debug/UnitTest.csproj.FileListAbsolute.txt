@@ -1,0 +1,12 @@
+C:\Users\kmaki\RiderProjects\zd3_v7\UnitTest\bin\Debug\UnitTest.dll
+C:\Users\kmaki\RiderProjects\zd3_v7\UnitTest\bin\Debug\UnitTest.pdb
+C:\Users\kmaki\RiderProjects\zd3_v7\UnitTest\bin\Debug\nunit.framework.dll
+C:\Users\kmaki\RiderProjects\zd3_v7\UnitTest\bin\Debug\zd3_v7.exe
+C:\Users\kmaki\RiderProjects\zd3_v7\UnitTest\bin\Debug\zd3_v7.pdb
+C:\Users\kmaki\RiderProjects\zd3_v7\UnitTest\bin\Debug\zd3_v7.exe.config
+C:\Users\kmaki\RiderProjects\zd3_v7\UnitTest\bin\Debug\nunit.framework.xml
+C:\Users\kmaki\RiderProjects\zd3_v7\UnitTest\obj\Debug\UnitTest.csproj.AssemblyReference.cache
+C:\Users\kmaki\RiderProjects\zd3_v7\UnitTest\obj\Debug\UnitTest.csproj.CoreCompileInputs.cache
+C:\Users\kmaki\RiderProjects\zd3_v7\UnitTest\obj\Debug\UnitTest.csproj.CopyComplete
+C:\Users\kmaki\RiderProjects\zd3_v7\UnitTest\obj\Debug\UnitTest.dll
+C:\Users\kmaki\RiderProjects\zd3_v7\UnitTest\obj\Debug\UnitTest.pdb

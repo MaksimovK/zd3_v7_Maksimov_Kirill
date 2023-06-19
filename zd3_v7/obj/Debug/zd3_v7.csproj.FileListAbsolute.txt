@@ -1,0 +1,11 @@
+C:\Users\kmaki\RiderProjects\zd3_v7\zd3_v7\bin\Debug\zd3_v7.exe.config
+C:\Users\kmaki\RiderProjects\zd3_v7\zd3_v7\bin\Debug\zd3_v7.exe
+C:\Users\kmaki\RiderProjects\zd3_v7\zd3_v7\bin\Debug\zd3_v7.pdb
+C:\Users\kmaki\RiderProjects\zd3_v7\zd3_v7\obj\Debug\zd3_v7.csproj.AssemblyReference.cache
+C:\Users\kmaki\RiderProjects\zd3_v7\zd3_v7\obj\Debug\zd3_v7.csproj.SuggestedBindingRedirects.cache
+C:\Users\kmaki\RiderProjects\zd3_v7\zd3_v7\obj\Debug\zd3_v7.Properties.Resources.resources
+C:\Users\kmaki\RiderProjects\zd3_v7\zd3_v7\obj\Debug\zd3_v7.csproj.GenerateResource.cache
+C:\Users\kmaki\RiderProjects\zd3_v7\zd3_v7\obj\Debug\zd3_v7.csproj.CoreCompileInputs.cache
+C:\Users\kmaki\RiderProjects\zd3_v7\zd3_v7\obj\Debug\zd3_v7.exe
+C:\Users\kmaki\RiderProjects\zd3_v7\zd3_v7\obj\Debug\zd3_v7.pdb
+C:\Users\kmaki\RiderProjects\zd3_v7\zd3_v7\obj\Debug\zd3_v7.Form1.resources
